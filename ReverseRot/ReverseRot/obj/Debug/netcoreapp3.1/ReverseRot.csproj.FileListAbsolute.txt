@@ -1,0 +1,13 @@
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\bin\Debug\netcoreapp3.1\ReverseRot.exe
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\bin\Debug\netcoreapp3.1\ReverseRot.deps.json
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\bin\Debug\netcoreapp3.1\ReverseRot.runtimeconfig.json
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\bin\Debug\netcoreapp3.1\ReverseRot.runtimeconfig.dev.json
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\bin\Debug\netcoreapp3.1\ReverseRot.dll
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\bin\Debug\netcoreapp3.1\ReverseRot.pdb
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.csprojAssemblyReference.cache
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.AssemblyInfoInputs.cache
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.AssemblyInfo.cs
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.csproj.CoreCompileInputs.cache
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.dll
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.pdb
+C:\Users\ProgrammingSux\Documents\GitHub\kodstuga\ReverseRot\ReverseRot\obj\Debug\netcoreapp3.1\ReverseRot.genruntimeconfig.cache
